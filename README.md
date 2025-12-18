@@ -46,7 +46,7 @@ Verrà realizzato un sistema di scambio di e-mail, messaggi e sms tramite l'util
 Grazie all'utilizzo di un ambiente cloud possiamo beneficiare dei seguenti vantaggi:
 - **Accessibilità:** possiamo accedere ai servizi offerti dal cloud da un qualsiasi luogo e dispositivo con una connessione internet, favorendo il lavoro remoto e la collaborazione internazionale tra medici e pazienti.
 - **Aggiornamenti, sicurezza e Manutenzione:** il provider si occuperà degli aggiornamenti, della sicurezza e della manutenzione del sistema cloud alleggerendo il carico IT interno.
-- **Collaborazione Migliorata:** gli strumenti e risorse che verranno condivise faciliteranno il lavoro di team distribuiti e, degli utenti del sistema, migliorando la comunicazione e la produttività tra di loro.
+- **Collaborazione Migliorata:** gli strumenti e le risorse che verranno condivise faciliteranno il lavoro di team distribuiti e, degli utenti del sistema, migliorando la comunicazione e la produttività tra di loro.
 
 
 
