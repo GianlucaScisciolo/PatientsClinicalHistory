@@ -29,7 +29,7 @@ Di seguito sono riportati i servizi che saranno utilizzati:
 
 ## Descrizione della struttura del progetto
 - **Funzionalità 1:**
-I dati di un paziente caricati saranno gestiti dal servizio "Azure Health Data Center" in maniera tale che gli attori interessati potranno visionare i dati inseriti nella maniera più semplice, immediata ed organizzata possibile. I dati verranno salvati nel DB relazionale offerto dal servizio "Azure SQL Database".
+I dati di un paziente caricati saranno gestiti dal servizio "Azure Health Data Services" in maniera tale che gli attori interessati potranno visionare i dati inseriti nella maniera più semplice, immediata ed organizzata possibile. I dati verranno salvati nel DB relazionale offerto dal servizio "Azure SQL Database".
 
 - **Funzionalità 2:**
 Un modulo di Intelligenza Artificiale creato con il servizio "Azure Machine Learning" prenderà in input dei sintomi e, grazie ai dati del paziente attuali potrà ritornare in output un elenco di possibili cause e/o malattie.
@@ -48,6 +48,9 @@ Grazie all'utilizzo di un ambiente cloud possiamo beneficiare dei seguenti vanta
 - **Aggiornamenti, sicurezza e Manutenzione:** il provider si occuperà degli aggiornamenti, della sicurezza e della manutenzione del sistema cloud alleggerendo il carico IT interno.
 - **Collaborazione Migliorata:** gli strumenti e le risorse che verranno condivise faciliteranno il lavoro di team distribuiti e, degli utenti del sistema, migliorando la comunicazione e la produttività tra di loro.
 
+## Architettura cloud attuale del sistema
+Di seguito è riportata l'architettura cloud attuale del sistema:
+![Immagine architettura del progetto](/projectdocs/PatientClinicalHistorySchemes.drawio.png)
 
 
 
